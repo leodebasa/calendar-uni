@@ -1,0 +1,16 @@
+{
+    "name": "wef/calender",
+    "description": "Agenda Inteligente Para Universitarios",
+    "authors": [
+        {
+            "name": "Leonardo Debastiani"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "../../class",
+            "Models\\": "../../model"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+*{margin:0; padding: 0; box-sizing: border-box; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+.calendarUser, .calendarManager{
+    width: 80%;
+    margin: 30px auto;
+    height: 80vh;
+}
+
